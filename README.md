@@ -25,9 +25,4 @@ This notebook provides multiple Natural Language Processing (NLP) solutions for 
 
 #
 - To demonstrate practical NLP solutions for Urdu text using statistical language models.
-- To integrate subword tokenization (BPE) with N-gram models for improved handling of rare words.
-- To address Urdu-specific script challenges in tokenization and preprocessing.
 
-
-  ```bash
-  pip install numpy pandas tqdm regex matplotlib
